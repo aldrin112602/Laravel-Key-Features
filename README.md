@@ -1,6 +1,6 @@
 # Laravel-Key-Features
 
-- **Routing**: Allows defining application routes in a clear and concise manner, supporting features like route parameters, named routes, and middleware assignment. citeturn0search9
+- **Routing**: Allows defining application routes in a clear and concise manner, supporting features like route parameters, named routes, and middleware assignment.
 
 - **Middleware**: Enables filtering HTTP requests entering the application, useful for tasks such as authentication and logging.
 
@@ -8,7 +8,7 @@
 
 - **Blade Templating Engine**: Offers a powerful yet simple templating engine for creating dynamic, reusable views with control structures and template inheritance.
 
-- **Authentication and Authorization**: Includes built-in authentication services and simple mechanisms for role-based access control. citeturn0search5
+- **Authentication and Authorization**: Includes built-in authentication services and simple mechanisms for role-based access control.
 
 - **Artisan Console**: Provides a command-line interface with pre-built commands for tasks like database migrations and seeding, and allows creation of custom commands.
 
